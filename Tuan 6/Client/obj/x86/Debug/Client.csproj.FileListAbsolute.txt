@@ -1,0 +1,11 @@
+D:\Tuan-2-master\Tuan 2.1\Client\bin\Debug\Client.exe
+D:\Tuan-2-master\Tuan 2.1\Client\bin\Debug\Client.pdb
+D:\Tuan-2-master\Tuan 2.1\Client\obj\x86\Debug\Client.exe
+D:\Tuan-2-master\Tuan 2.1\Client\obj\x86\Debug\Client.pdb
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Client\obj\x86\Debug\Client.exe
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Client\obj\x86\Debug\Client.pdb
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Client\bin\Debug\Client.exe
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Client\bin\Debug\Client.pdb
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 2.1\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 6\Client\obj\x86\Debug\Client.exe
+D:\Downloads\tuan 6\Tuan-5-master\Tuan-2-master\Tuan 6\Client\obj\x86\Debug\Client.pdb
